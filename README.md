@@ -31,6 +31,8 @@ This is a functional mechanical display made in Fusion 360 using module 1.5 beve
   To understand how to use bevel gears in my project i had to reaerch: module sizes, pressure angles, and backlash.
 + ### Plate Support
   I had to balance shaft size and learn about bearing tolerances to pick the right one
++ ### Creating a visual animation
+  To create an animation of the gears moving together, i had to understand and impliment motion links in fusion 360
 ---
 
 ## Future Improvements
