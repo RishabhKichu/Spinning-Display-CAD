@@ -37,6 +37,6 @@ This is a functional mechanical display made in Fusion 360 using module 1.5 beve
 
 ## Future Improvements
 - #### Better Overrall stabily: add more supports to the main shaft and hand crank shaft
-- #### Change hand crank to display gear ratio to 3
+- #### Change hand crank to display gear ratio to 3:1 
 - #### Add motor mount option to replace crank
 - #### Make one wall of the box replacable for quick repairs
