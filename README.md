@@ -1,42 +1,50 @@
-# Spinning-Display-CAD
+# Spinning Display CAD
 
-## Overview
-This is a functional mechanical display made in Fusion 360 using module 1.5 bevel gears with a mounting distance of 30mm. It features a detatchable hand crank that can be stored in the back of the box for storage of the hand crank. The internals are housed within an 8x8x8cm base
+## 📌 Overview
+This is a functional mechanical display modeled in Fusion 360, featuring **module 1.5 bevel gears** with a **30 mm mounting distance**.  
+It includes a **detachable hand crank** that fits into a built-in rear storage slot. The mechanism is compactly housed in an **8 × 8 × 8 cm base**, driving a **12 cm display plate**.
 
 ---
 
 ## ⚙️ Key Design Features
 
-* Hand Powered Rotation
-* Bevel gear system mounted at 90 degree angle
-* Storage spot for hand crank
-* 12cm display plate
+- Hand-powered rotation via removable crank
+- Bevel gear system at 90° for compact motion transfer
+- Rear slot for crank storage
+- 12 cm top display plate
 
 ---
 
-## Preview
-#### Front View  
+## 📷 Preview
+
+#### 🔸 Front View  
 ![Front](./Renders/Front.jpg)
 
-#### Back View  
+#### 🔸 Back View  
 ![Back](./Renders/Back.jpg)
 
-#### Internal Gear Mechanism  
+#### 🔸 Internal Gear Mechanism  
 ![Internal](./Renders/Internal.jpg)
 
 ---
 
-## Problems Faced
-+ ### Bevel Gear selection
-  To understand how to use bevel gears in my project i had to reaerch: module sizes, pressure angles, and backlash.
-+ ### Plate Support
-  I had to balance shaft size and learn about bearing tolerances to pick the right one
-+ ### Creating a visual animation
-  To create an animation of the gears moving together, i had to understand and impliment motion links in fusion 360
+## 🧠 Problems Faced & Learnings
+
+- **Bevel Gear Selection**  
+  I had to research gear terminology like module size, pressure angle, and backlash to select a gear pair that meshed correctly and fit inside the housing.
+
+- **Plate Support and Bearing Fit**  
+  Finding the right shaft and bearing combination required learning about **bearing tolerances** and how to minimize friction while maintaining plate stability.
+
+- **Creating an Animation**  
+  To visualize gear interaction, I had to understand and implement **motion links** in Fusion 360. This included setting up joints and simulating motion paths.
+
 ---
 
-## Future Improvements
-- #### Better Overrall stabily: add more supports to the main shaft and hand crank shaft
-- #### Change hand crank to display gear ratio to 3:1 
-- #### Add motor mount option to replace crank
-- #### Make one wall of the box replacable for quick repairs
+## 🔧 Future Improvements
+
+- Improve overall stability by adding support for the crank and center shaft
+- Change gear ratio from 1:1 to 3:1 for smoother display rotation
+- Add an optional motor mount in place of the crank
+- Make one wall removable for easier access and maintenance
+
