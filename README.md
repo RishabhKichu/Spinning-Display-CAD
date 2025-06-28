@@ -5,7 +5,7 @@ This is a functional mechanical display made in Fusion 360 using module 1.5 beve
 
 ---
 
-##⚙️ Key Design Features
+## ⚙️ Key Design Features
 
 * Hand Powered Rotation
 * Bevel gear system mounted at 90 degree angle
